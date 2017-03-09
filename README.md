@@ -1,2 +1,2 @@
 # mobiscroll-date
-根据mobiscroll修改的移动段日期选择器
+根据[mobiscroll](https://github.com/acidb/mobiscroll)修改的移动段日期选择器
